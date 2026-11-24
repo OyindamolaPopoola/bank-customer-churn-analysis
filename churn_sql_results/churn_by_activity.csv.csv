@@ -1,0 +1,5 @@
+activity_status,churn_status,customers
+Active,churned,735
+Active,retained,4416
+Inactive,churned,1302
+Inactive,retained,3547
